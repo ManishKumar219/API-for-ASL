@@ -1,6 +1,5 @@
 fastapi[all]
 asyncio
-contextlib
 typing
 opencv-python
 numpy
