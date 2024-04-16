@@ -1,0 +1,15 @@
+fastapi[all]
+asyncio
+contextlib
+typing
+opencv-python
+numpy
+tensorflow
+pandas
+pyYAML
+types-pyYAML
+scipy
+Scikit-learn
+db-sqlite3
+pyttsx3
+mediapipe
